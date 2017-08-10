@@ -4,3 +4,4 @@ fetch test
 pull test1
 new feature2
 new feature1
+commit1
